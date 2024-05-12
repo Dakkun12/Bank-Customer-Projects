@@ -22,3 +22,4 @@ This project aims to analyze customer churn within a bank's customer base. Custo
 ## Conclusion
 Customer churn is a critical metric for banks, as retaining existing customers is often more cost-effective than acquiring new ones. By leveraging data analysis and visualization techniques, this project provides valuable insights into churn patterns and offers actionable recommendations for reducing churn and improving customer retention.
 
+[Dashboard](https://public.tableau.com/views/BankCustomer_17155219807240/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
